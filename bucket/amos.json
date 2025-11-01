@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/apodacaa/amos/releases/download/v1.0.0/amos-windows-amd64.exe",
-      "hash": "REPLACE_WITH_SHA256_HASH",
+      "hash": "65b11a43798e998c96865bf1bf9b3013e18cb52fe1132b612ea4bb373346561a",
       "bin": [["amos-windows-amd64.exe", "amos"]]
     }
   },
